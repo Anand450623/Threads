@@ -1,0 +1,1 @@
+This folder contains sample java code to Implement the concept of threadLocal.
