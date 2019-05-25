@@ -1,0 +1,1 @@
+This folder contains sample java code to get started with thread Exception handling using custom handler.
